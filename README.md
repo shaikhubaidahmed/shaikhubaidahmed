@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Shaikh%20Ubaid%20Ahmed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h3>🤖 ML Engineer • 🔬 Researcher • ⚙️ MLOps • 💻 Software Engineer</h3>
+<h3>ML Engineer · Researcher · MLOps</h3>
 
 <p>
 Building intelligent systems, experimenting with machine learning, and turning models into reliable software.
@@ -11,414 +11,189 @@ Building intelligent systems, experimenting with machine learning, and turning m
 <br>
 
 <a href="https://github.com/shaikhubaidahmed">
-<img src="https://img.shields.io/github/followers/shaikhubaidahmed?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=24292f&color=6e7781"/>
+<img src="https://img.shields.io/github/followers/shaikhubaidahmed?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161b22&color=667eea" alt="GitHub Followers"/>
 </a>
-
-<a href="https://github.com/shaikhubaidahmed">
-<img src="https://img.shields.io/github/stars/shaikhubaidahmed?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=24292f&color=6e7781"/>
+&nbsp;
+<a href="https://github.com/shaikhubaidahmed?tab=repositories">
+<img src="https://img.shields.io/github/stars/shaikhubaidahmed?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=161b22&color=f5c542" alt="GitHub Stars"/>
 </a>
-
+&nbsp;
 <a href="https://komarev.com/ghpvc/?username=shaikhubaidahmed">
-<img src="https://komarev.com/ghpvc/?username=shaikhubaidahmed&style=for-the-badge&label=Profile%20Views&color=667eea"/>
+<img src="https://komarev.com/ghpvc/?username=shaikhubaidahmed&style=for-the-badge&label=Profile%20Views&color=764ba2" alt="Profile Views"/>
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/shaikhubaidahmed">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:shaikhubaidahmed1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Gmail"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/shaikhubaidahmed">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" alt="LeetCode"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/ubaidshaikh9999">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="38" alt="GeeksforGeeks"/>
 </a>
 
 </div>
 
----
-
 # 👨‍💻 About Me
 
-I'm **Shaikh Ubaid Ahmed**, a Computer Science researcher and engineer interested in building **robust, scalable, and production-ready machine learning systems**.
+I'm **Shaikh Ubaid Ahmed**, a Computer Science researcher and engineer focused on building **robust, scalable, and production-ready machine learning systems**.
 
-My current work sits at the intersection of:
+My work sits at the intersection of:
 
-```text
-        ┌─────────────────────────┐
-        │    MACHINE LEARNING     │
-        └────────────┬────────────┘
-                     │
-       ┌─────────────┼─────────────┐
-       ↓             ↓             ↓
- Computer Vision   MLOps        Cloud
-       │             │             │
-       └─────────────┼─────────────┘
-                     ↓
-             Reliable AI Systems
-```
-
-### 🔭 Currently focused on
-
-* 🤖 Machine Learning & Deep Learning
-* 👁️ Computer Vision & Object Detection
-* ⚙️ MLOps & ML Infrastructure
-* 🐳 Containerization & Deployment
-* ☁️ Cloud Computing
-* 🧠 LLMs, RAG & AI Agents
-* 💻 Algorithms & Problem Solving
-* 🔬 Research & Experimental ML
-
----
+| 🤖 Machine Learning | 👁️ Computer Vision | ⚙️ MLOps | ☁️ Cloud |
+|:---:|:---:|:---:|:---:|
+| Deep Learning | Object Detection | ML Pipelines | AWS |
+| Model Evaluation | Image Processing | Deployment | Azure |
+| Adversarial ML | Model Robustness | Docker | Cloud Infrastructure |
+| Generative AI | Experimental Research | CI/CD | ML Workloads |
 
 # 🎓 Education
 
 ### 🏛️ Indian Institute of Technology Indore
 
-**MS (Research) — Computer Science & Engineering**
+**MS (Research) — Computer Science & Engineering · 2025–Present**
 
-Working on research involving **Machine Learning, Computer Vision, Deep Learning, and robust AI systems**.
-
----
+Research interests include **Machine Learning, Computer Vision, Deep Learning, and robust AI systems**.
 
 ### 🎓 Lovely Professional University
 
-**B.Tech — Computer Science & Engineering**
-
----
+**B.Tech — Computer Science & Engineering · 2019–2023**
 
 # 💼 Experience
 
-## MLOps Intern — Eaton India
+### MLOps Intern — Eaton India
 
 **Pune, India · May 2026 – July 2026**
 
 Worked on production-oriented machine learning infrastructure and pipeline modernization.
 
-### What I worked on
-
-* 🔧 Modernized enterprise machine-learning pipelines
-* 🏗️ Refactored workflow and data-processing components
-* 🚀 Built and validated end-to-end ML workflows
-* 🐳 Containerized applications using Docker
-* 🔄 Used Git/GitHub for version control
-* 🧪 Worked with testing and validation workflows
-* 📊 Implemented experiment tracking
-* 📚 Improved technical documentation and reproducibility
-* 🔬 Worked with simulation-based analysis and data-processing workflows
-
----
-
-# 🧠 Machine Learning
-
-### Core Areas
-
-```text
-Machine Learning
-├── Deep Learning
-├── Computer Vision
-├── Object Detection
-├── Model Evaluation
-├── Adversarial Robustness
-├── Data Processing
-└── ML Experimentation
-```
-
-### Frameworks & Libraries
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</p>
-
----
-
-# 👁️ Computer Vision
-
-Interested in building and evaluating real-world vision systems.
-
-### Areas of interest
-
-* 🚦 Traffic Sign Detection
-* 🚗 Object Detection
-* 📷 Image Processing
-* 🎯 Model Robustness
-* 🧪 Adversarial Evaluation
-* 📊 Detection Metrics
-* 🔬 Experimental Research
-
-### Tools
-
-`PyTorch` `YOLO` `OpenCV` `NumPy` `Python`
-
----
-
-# ⚙️ MLOps & Infrastructure
-
-I enjoy the engineering side of ML — taking an experiment and turning it into a **repeatable and maintainable pipeline**.
-
-```text
-        DATA
-          ↓
-     PREPROCESSING
-          ↓
-       TRAINING
-          ↓
-     EXPERIMENTATION
-          ↓
-      EVALUATION
-          ↓
-      CONTAINERIZE
-          ↓
-      DEPLOYMENT
-          ↓
-       MONITORING
-```
-
-### Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
-
-</p>
-
-`Docker` · `Git` · `GitHub` · `CI/CD` · `ML Pipelines` · `Experiment Tracking` · `Testing` · `Deployment`
-
----
-
-# ☁️ Cloud
-
-Currently building practical cloud knowledge with a focus on machine-learning workloads.
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure"/>
-
-</p>
-
-### Areas
-
-`AWS` · `Azure` · `Cloud Infrastructure` · `Storage` · `Containers` · `Deployment`
-
----
-
-# 💻 Programming
-
-### Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts"/>
-
-</p>
-
-### Core CS
-
-```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Systems
-Operating Systems
-Computer Networks
-System Design
-Problem Solving
-```
-
----
-
-# 🗄️ Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
-
-`SQL` · `MySQL` · `MongoDB` · `Database Design`
-
----
-
-# 🚀 Selected Projects
-
-## 🚦 Traffic Sign Detection & Robustness
-
-Computer-vision research focused on evaluating and improving the reliability of real-time traffic-sign detection systems.
-
-### Focus
-
-`Computer Vision` `Object Detection` `YOLO` `PyTorch` `Adversarial ML`
-
-### Work includes
-
-* Dataset preparation and conversion
-* YOLO-based training
-* Adversarial attack evaluation
-* Synthetic overlap generation
-* Robustness benchmarking
-* Detection metric analysis
-* Experimental reproducibility
-
----
-
-## 🚗 Vehicle Collision Detection
-
-Computer-vision project for identifying potential vehicle collisions using object detection.
-
-**Technologies**
-
-`Python` · `OpenCV` · `YOLO` · `Computer Vision`
-
----
-
-## 🗺️ Ground Air Navigator
-
-Graph-based navigation and shortest-path project implementing path-planning algorithms.
-
-**Technologies**
-
-`Java` · `Data Structures` · `Graph Algorithms` · `Dijkstra`
-
----
-
-# 🤖 Exploring Generative AI
-
-Currently expanding into modern AI application development.
-
-```text
-                    LLMs
-                     │
-             ┌───────┴───────┐
-             ↓               ↓
-        Embeddings        Prompting
-             │
-             ↓
-       Vector Databases
-             │
-             ↓
-             RAG
-             │
-             ↓
-         AI Agents
-             │
-             ↓
-      Production AI Apps
-```
-
-### Learning
-
-* 🧠 Large Language Models
-* 🔎 Retrieval-Augmented Generation
-* 📚 Embeddings & Vector Search
-* 🤖 AI Agents
-* 🛠️ Agentic Workflows
-* ☁️ Production AI Infrastructure
-
----
-
-# 📚 Currently Learning
-
-### 🐍 Python
-
-Building deeper Python expertise for:
-
-`ML` · `MLOps` · `Automation` · `AI` · `Backend Systems`
-
-### ☁️ AWS
-
-Preparing for:
-
-**AWS Certified Cloud Practitioner — CLF-C02**
-
-### 🤖 Generative AI
-
-Working toward production-level understanding of:
-
-`LLMs` → `RAG` → `Agents` → `Production AI`
-
-### 🏗️ Software Engineering
-
-Strengthening:
-
-`DSA` · `System Design` · `Linux` · `Git` · `Cloud` · `Distributed Systems`
-
----
+- 🔧 Modernized enterprise machine-learning pipelines
+- 🏗️ Refactored workflow and data-processing components
+- 🚀 Built and validated end-to-end ML workflows
+- 🐳 Containerized applications using Docker
+- 🔄 Used Git/GitHub for version control
+- 🧪 Worked with testing and validation workflows
+- 📊 Implemented experiment tracking
+- 📚 Improved technical documentation and reproducibility
+- 🔬 Worked with simulation-based analysis and data-processing workflows
 
 # 🛠️ Complete Tech Stack
 
-<details>
-<summary><b>Expand my technical stack</b></summary>
+<div align="center">
 
-### Programming
+### 🐍 Programming
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" alt="Programming Languages"/>
 
-`Python` `Java` `C` `C++` `JavaScript` `TypeScript` `SQL`
+### 🧠 Machine Learning & Computer Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="Machine Learning Technologies"/>
+<br>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" alt="YOLO"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 
-### Machine Learning
+### ⚙️ MLOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" alt="MLOps and Infrastructure"/>
+<br>
+<img src="https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/ML%20Pipelines-5C2D91?style=for-the-badge" alt="ML Pipelines"/>
+<img src="https://img.shields.io/badge/Experiment%20Tracking-FF6F00?style=for-the-badge" alt="Experiment Tracking"/>
+<img src="https://img.shields.io/badge/Testing-2C3E50?style=for-the-badge" alt="Testing"/>
 
-`PyTorch` `TensorFlow` `Keras` `YOLO` `OpenCV` `NumPy` `Pandas` `Scikit-learn`
+### ☁️ Cloud
+<img src="https://skillicons.dev/icons?i=aws,azure" alt="Cloud Technologies"/>
 
-### MLOps
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
 
-`Docker` `Git` `GitHub` `CI/CD` `ML Pipelines` `Experiment Tracking`
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,postman,github,git,linux" alt="Tools and Platforms"/>
 
-### Cloud
+</div>
 
-`AWS` `Azure`
+# 🚀 Selected Projects
 
-### Databases
+### 🚦 Traffic Sign Detection & Robustness
 
-`MySQL` `MongoDB`
+Computer-vision research focused on evaluating and improving the reliability of real-time traffic-sign detection systems.
 
-### Operating Systems
+**Focus:**  
+`Computer Vision` `Object Detection` `YOLO` `PyTorch` `Adversarial ML`
 
-`Linux` `Windows` `macOS`
+**Work includes**
 
-### Tools
+- Dataset preparation and conversion
+- YOLO-based training
+- Adversarial attack evaluation
+- Synthetic overlap generation
+- Robustness benchmarking
+- Detection metric analysis
+- Experimental reproducibility
 
-`VS Code` `Postman` `GitHub`
+### 🚗 Vehicle Collision Detection
 
-</details>
+Computer-vision project for identifying potential vehicle collisions using object detection.
 
----
+**Technologies:**  
+`Python` · `OpenCV` · `YOLO` · `Computer Vision`
+
+### 🗺️ Ground Air Navigator
+
+Graph-based navigation and shortest-path project implementing path-planning algorithms.
+
+**Technologies:**  
+`Java` · `Data Structures` · `Graph Algorithms` · `Dijkstra`
+
+# 🤖 Exploring Generative AI
+
+<div align="center">
+
+| 🧠 LLMs | 🔎 Retrieval | 🗃️ Knowledge | 🤖 Agents |
+|:---:|:---:|:---:|:---:|
+| Large Language Models | Embeddings | Vector Databases | AI Agents |
+| Prompt Engineering | Semantic Search | RAG | Agentic Workflows |
+| LLM Applications | Retrieval Pipelines | Knowledge Bases | Tool Use |
+
+<br>
+
+**Learning Path**
+
+`LLMs` → `Embeddings` → `Vector Search` → `RAG` → `AI Agents` → `Production AI`
+
+</div>
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| 🐍 Python | ☁️ AWS | 🤖 Generative AI | 🏗️ Software Engineering |
+|:---:|:---:|:---:|:---:|
+| ML | CLF-C02 | LLMs | DSA |
+| MLOps | Cloud Infrastructure | RAG | System Design |
+| Automation | Cloud Services | AI Agents | Linux |
+| Backend Systems | ML Workloads | Production AI | Distributed Systems |
+
+</div>
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  src="./profile/stats.svg"
-  width="49%"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="./profile/top-langs.svg"
-  width="49%"
-  alt="Top Languages"
-/>
+<img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
+<img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
 
 <br><br>
 
-<img
-  src="https://streak-stats.demolab.com?user=shaikhubaidahmed&theme=tokyonight&hide_border=true&background=0D1117"
-  width="70%"
-  alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=shaikhubaidahmed&theme=tokyonight&hide_border=true&background=0D1117" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -427,34 +202,24 @@ Strengthening:
 <div align="center">
 
 <a href="https://github.com/shaikhubaidahmed">
+<img src="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-365d.svg" width="100%" alt="GitHub Contribution Activity"/>
+</a>
 
-<img
-  src="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-365d.svg"
-  alt="GitHub Contribution Activity"
-  width="100%"
-/>
+<br>
 
+<a href="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-30d.svg">
+<img src="https://img.shields.io/badge/30%20Days-667eea?style=flat-square&logo=github&logoColor=white" alt="30 Days Activity"/>
+</a>
+&nbsp;
+<a href="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-90d.svg">
+<img src="https://img.shields.io/badge/90%20Days-764ba2?style=flat-square&logo=github&logoColor=white" alt="90 Days Activity"/>
+</a>
+&nbsp;
+<a href="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-365d.svg">
+<img src="https://img.shields.io/badge/365%20Days-4F46E5?style=flat-square&logo=github&logoColor=white" alt="365 Days Activity"/>
 </a>
 
 </div>
-
-<p align="center">
-
-<a href="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-30d.svg">
-30 Days
-</a>
-&nbsp;•&nbsp;
-
-<a href="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-90d.svg">
-90 Days
-</a>
-&nbsp;•&nbsp;
-
-<a href="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-365d.svg">
-365 Days
-</a>
-
-</p>
 
 # 🐍 Contribution Snake
 
@@ -468,75 +233,72 @@ Strengthening:
 
 </div>
 
----
-
-# 🎯 Areas I'm Interested In
+# 🎯 Areas of Interest
 
 <div align="center">
 
-|   🤖 AI / ML  | 👁️ Computer Vision |   ⚙️ MLOps   |
-| :-----------: | :-----------------: | :----------: |
-| Deep Learning |   Object Detection  | ML Pipelines |
-| Generative AI |   Image Processing  |  Deployment  |
-|      RAG      |   Model Robustness  |    Docker    |
-|   AI Agents   |    Adversarial ML   |     Cloud    |
+| 🤖 AI / ML | 👁️ Computer Vision | ⚙️ MLOps |
+|:---:|:---:|:---:|
+| Deep Learning | Object Detection | ML Pipelines |
+| Generative AI | Image Processing | Deployment |
+| RAG | Model Robustness | Docker |
+| AI Agents | Adversarial ML | Cloud |
 
 </div>
 
----
+# 🌱 Current Roadmap
 
-# 🌱 My Current Roadmap
+<div align="center">
 
-```text
-                    ┌──────────────┐
-                    │   PYTHON     │
-                    └──────┬───────┘
-                           ↓
-                 ┌──────────────────┐
-                 │ MACHINE LEARNING │
-                 └────────┬─────────┘
-                          ↓
-               ┌─────────────────────┐
-               │ COMPUTER VISION     │
-               └──────────┬──────────┘
-                          ↓
-                  ┌───────────────┐
-                  │     MLOps     │
-                  └───────┬───────┘
-                          ↓
-                    ┌───────────┐
-                    │   CLOUD   │
-                    └─────┬─────┘
-                          ↓
-                   ┌────────────┐
-                   │  GenAI /   │
-                   │ RAG / AGENTS│
-                   └────────────┘
-```
+| Foundation | ML & Research | Engineering | Next Generation AI |
+|:---:|:---:|:---:|:---:|
+| 🐍 Python | 🧠 Machine Learning | ⚙️ MLOps | 🤖 GenAI |
+| 💻 DSA | 👁️ Computer Vision | ☁️ Cloud | 🔎 RAG |
+| 🏗️ System Design | 🔬 Research | 🐳 Deployment | 🧩 AI Agents |
 
----
+</div>
 
 # 🤝 Let's Connect
 
 <div align="center">
 
+<a href="https://github.com/shaikhubaidahmed">
+<img src="https://cdn.simpleicons.org/github/181717" width="42" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shaikhubaidahmed">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="mailto:shaikhubaidahmed1@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/shaikhubaidahmed">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/ubaidshaikh9999">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="42" alt="GeeksforGeeks"/>
+</a>
+
+<br><br>
 
 <a href="https://github.com/shaikhubaidahmed">
-<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/shaikhubaidahmed">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:shaikhubaidahmed1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
 
-### ⚡ Build. Learn. Experiment. Ship.
+<div align="center">
+
+### ⚡ Build · Learn · Experiment · Ship
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
