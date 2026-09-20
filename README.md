@@ -11,23 +11,31 @@ Building intelligent systems, experimenting with machine learning, and turning m
 <br>
 
 <a href="https://github.com/shaikhubaidahmed">
-<img src="https://img.shields.io/github/followers/shaikhubaidahmed?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/followers/shaikhubaidahmed?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=24292f&color=6e7781"/>
 </a>
+
 <a href="https://github.com/shaikhubaidahmed">
-<img src="https://img.shields.io/github/stars/shaikhubaidahmed?style=for-the-badge&logo=github&label=Stars"/>
+<img src="https://img.shields.io/github/stars/shaikhubaidahmed?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=24292f&color=6e7781"/>
 </a>
-<a href="mailto:shaikhubaidahmed1@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="https://komarev.com/ghpvc/?username=shaikhubaidahmed">
+<img src="https://komarev.com/ghpvc/?username=shaikhubaidahmed&style=for-the-badge&label=Profile%20Views&color=667eea"/>
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/shaikhubaidahmed">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:shaikhubaidahmed1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://leetcode.com/shaikhubaidahmed">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 <a href="https://auth.geeksforgeeks.org/user/ubaidshaikh9999">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
@@ -486,31 +494,23 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhubaida
 
 # 🤝 Let's Connect
 
-I'm always interested in discussing:
-
-**Machine Learning · Computer Vision · MLOps · Cloud · Generative AI · Research · Algorithms · AI Systems**
-
-<br>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shaikhubaidahmed">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:shaikhubaidahmed1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/shaikhubaidahmed">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
 </a>
 
 </div>
-
-<br>
-
-<div align="center">
 
 ### ⚡ Build. Learn. Experiment. Ship.
 
