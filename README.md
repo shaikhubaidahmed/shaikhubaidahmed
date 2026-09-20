@@ -24,21 +24,33 @@ Building intelligent systems, experimenting with machine learning, and turning m
 
 <br><br>
 
+<div align="center">
+
+<a href="https://github.com/shaikhubaidahmed">
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/shaikhubaidahmed">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="mailto:shaikhubaidahmed1@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://leetcode.com/shaikhubaidahmed">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" alt="LeetCode"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://auth.geeksforgeeks.org/user/ubaidshaikh9999">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="38" alt="GeeksforGeeks"/>
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48" alt="GeeksforGeeks"/>
 </a>
+</div>
+
 
 </div>
 
@@ -263,35 +275,27 @@ Graph-based navigation and shortest-path project implementing path-planning algo
 <div align="center">
 
 <a href="https://github.com/shaikhubaidahmed">
-<img src="https://cdn.simpleicons.org/github/181717" width="42" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/shaikhubaidahmed">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="mailto:shaikhubaidahmed1@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://leetcode.com/shaikhubaidahmed">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://auth.geeksforgeeks.org/user/ubaidshaikh9999">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="42" alt="GeeksforGeeks"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/shaikhubaidahmed">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/shaikhubaidahmed">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:shaikhubaidahmed1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://skillicons.dev/icons?i=geeksforgeeks" width="48" alt="GeeksforGeeks"/>
 </a>
 
 </div>
