@@ -418,19 +418,41 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhubaida
 
 ---
 
+---
+
 # 📈 GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/shaikhubaidahmed">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhubaidahmed&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<img
+  src="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-365d.svg"
+  alt="GitHub Contribution Activity"
+  width="100%"
+/>
 
 </a>
 
 </div>
 
----
+<p align="center">
+
+<a href="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-30d.svg">
+30 Days
+</a>
+&nbsp;•&nbsp;
+
+<a href="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-90d.svg">
+90 Days
+</a>
+&nbsp;•&nbsp;
+
+<a href="https://raw.githubusercontent.com/shaikhubaidahmed/shaikhubaidahmed/activity-assets/activity-365d.svg">
+365 Days
+</a>
+
+</p>
 
 # 🐍 Contribution Snake
 
