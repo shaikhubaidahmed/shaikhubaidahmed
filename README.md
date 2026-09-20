@@ -400,25 +400,27 @@ Strengthening:
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=shaikhubaidahmed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img
+  src="./profile/stats.svg"
+  width="49%"
+  alt="GitHub Statistics"
+/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhubaidahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img
+  src="./profile/top-langs.svg"
+  width="49%"
+  alt="Top Languages"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=shaikhubaidahmed&theme=tokyonight&hide_border=true&background=0D1117"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shaikhubaidahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
----
 
 # 📈 GitHub Activity
 
