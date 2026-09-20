@@ -1,0 +1,48 @@
+name: Update GitHub Activity Chart
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity charts
+        uses: dturovskiy/deus-commit-chart@v1
+        with:
+          username: shaikhubaidahmed
+          token: ${{ github.token }}
+          default-days: "365"
+          ranges: "30,90,365"
+          layout: spacious
+          output-dir: activity-dist
+
+      - name: Publish activity charts
+        run: |
+          mkdir -p /tmp/activity-assets
+          cp activity-dist/activity-30d.svg /tmp/activity-assets/
+          cp activity-dist/activity-90d.svg /tmp/activity-assets/
+          cp activity-dist/activity-365d.svg /tmp/activity-assets/
+
+          cd /tmp/activity-assets
+
+          git init
+          git checkout -b activity-assets
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          git commit -m "Update GitHub activity charts"
+
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git push --force origin activity-assets
