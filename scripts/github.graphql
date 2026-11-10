@@ -1,0 +1,46 @@
+query ($login: String!) {
+  user(login: $login) {
+    name
+    login
+    avatarUrl
+    contributionsCollection {
+      contributionCalendar {
+        totalContributions
+        weeks {
+          contributionDays {
+            date
+            contributionCount
+            weekday
+          }
+        }
+      }
+    }
+    pinnedItems(first: 6, types: REPOSITORY) {
+      nodes {
+        ... on Repository {
+          ...Repo
+        }
+      }
+    }
+    repositories(first: 100, ownerAffiliations: OWNER, privacy: PUBLIC, orderBy: {field: STARGAZERS, direction: DESC}) {
+      nodes {
+        ...Repo
+      }
+    }
+  }
+}
+
+fragment Repo on Repository {
+  name
+  description
+  url
+  isFork
+  stargazerCount
+  forkCount
+  pushedAt
+  updatedAt
+  primaryLanguage {
+    name
+    color
+  }
+}
